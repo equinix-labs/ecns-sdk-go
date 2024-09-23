@@ -1,2 +1,2 @@
-# ECNS GO SDK
-ECNS SDK for go
+# ECNS Go SDK
+ECNS SDK for Go
